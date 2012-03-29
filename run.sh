@@ -1,1 +1,3 @@
-javac -d $1/target $(find $1/src -iname *.java) && java -Djava.security.manager -cp $1/target/ Solution
+pushd $1 1>/dev/null
+javac -d target $(find src -iname *.java) && java -Djava.security.manager -cp target/ Solution
+popd 1>/dev/null
