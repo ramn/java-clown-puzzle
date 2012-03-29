@@ -1,1 +1,1 @@
-Solution to puzzles from [Wouter](http://wouter.coekaerts.be/tag/puzzle)
+Solution to puzzles from [Wouter](http://wouter.coekaerts.be/puzzles)
